@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><🇮​🇹​'🇸​    🇲​🇪​    🇦​🇱​🇻​🇮​🇳​
 <div align="center">
-        <img src=MyLogoArt20211211151640.jpg
+        <img src=MyLogoArt20211211151640.jpg>
 </p>
 
 <div align="center">
