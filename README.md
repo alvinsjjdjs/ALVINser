@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![ALVINser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=🇼​🇪​🇱​🇨​🇴​🇲​🇪​+to+🇦​🇱​🇻​🇮​🇳+🇧🅞🅣:Created+by+🇦🅛🅥🅘🅝+🅚;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![ALVINser](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=🇼​🇪​🇱​🇨​🇴​🇲​🇪​+to+🇦​🇱​🇻​🇮​🇳+SER:Created+by+ALVIN+🅚;This+is+the+Best+Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
