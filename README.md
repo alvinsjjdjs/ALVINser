@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><🇮​🇹​'🇸​    🇲​🇪​    🇦​🇱​🇻​🇮​🇳​
 <div align="center">
-        <img src=IMG_20211211_084158>
+        <img src=
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="ALVIN ser" src=1639216696704.jpg>
+<a href="#"><img title="ALVIN ser" src=IMG_20211211_084158>
 </p>
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
