@@ -11,7 +11,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="ALVIN ser" src=MyLogoArt20211211151640.png>
+<a href="#"><img title="ALVIN ser" src=
 </p>
   <p align="center">
 <a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
